@@ -1,0 +1,7 @@
+{
+  "name": "Text to Speech",
+  "description": "Convert text into lifelike speech and dialogue with customizable voices and styles using Gemini TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
